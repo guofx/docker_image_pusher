@@ -4,4 +4,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-arm64v8/nginx:latest
+--platform=arm64 nginx:latest
