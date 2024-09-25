@@ -5,4 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #--platform=arm64 nginx:latest
---platform=arm64 alpine:v3.9
+--platform=arm64 alpine:v3.9.0
