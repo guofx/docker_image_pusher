@@ -8,4 +8,5 @@
 #--platform=arm64 alpine:3.15
 # houwm/jdk8:arm64
 #arm64v8/ubuntu:20.04
-kkfileview/kkfileview:arm
+#kkfileview/kkfileview:arm
+--platform=arm64 killsnow/kkfileview:latest
